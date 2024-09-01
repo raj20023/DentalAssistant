@@ -18,8 +18,8 @@ This project is a basic AI assistant built using Python and LangChain that simul
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/clinic-appointment-ai-assistant.git
-    cd clinic-appointment-ai-assistant
+    git clone https://github.com/raj20023/DentalAssistant.git
+    cd DentalAssistant
     ```
 
 2. **Create a virtual environment:**
