@@ -103,9 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact [rajp20023@gmail.com](mailto:rajp20023@gmail.com).
-```
 
 ### Key Updates:
 - **API Key Setup Instructions:** Added instructions to set up the OpenAI API key as an environment variable.
 - **Minor Formatting:** Clarified sections for better readability.
-"# DentalAssistant" 
